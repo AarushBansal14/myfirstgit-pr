@@ -1,4 +1,4 @@
-# myfirstgit-pr
+cd# myfirstgit-pr
 this is my first git repository
 <br>
-Autor- Aarush Bansal
+Autor- Aarush Bansal2006
